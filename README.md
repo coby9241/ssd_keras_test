@@ -1,6 +1,8 @@
 # SSD Keras with Stanford 40 Actions Dataset
 
-Testing Single Shot Multibox Detector on Stanford 40 Actions Dataset. This is just to try out the Single Short Multibox Detector port in Keras and is not meant for research or anything. (!Disclaimer: Some cherry picking here to make myself feel abit better after all the effort spent understanding the model and using this port)
+Testing Single Shot Multibox Detector on Stanford 40 Actions Dataset. This is just to try out the Single Short Multibox Detector port in Keras and is not meant for research or anything. Training done in [Floydhub](https://www.floydhub.com/welcome).
+
+Disclaimer: Some cherry picking here to make myself feel abit better after all the effort spent understanding the model and using this port.
 
 Original SSD Paper: [Single Shot Multibox Detector](https://arxiv.org/abs/1512.02325)
 
