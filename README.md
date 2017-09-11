@@ -9,3 +9,7 @@ Credits: [rykov8](https://github.com/rykov8/ssd_keras) for SSD port to Keras. [c
 Stanford 40 Actions Dataset: [data](http://vision.stanford.edu/Datasets/40actions.html)
 
 Most of the work done in ssd_trial_3.ipynb and get_data_from_XML.py. One issue noticed is due to the large number of classes (40 to be exact excluding nothing detected), the splitting of the data into train/val/test is very important. Further improvement could be made to the model by doing the split such that there is a equal distribution of the classes in all the 3 sets.
+
+To do (if i have time):
+1) retraining after better train/val/test split
+2) computation of Average Precision for all classes and MAP (mean average precision)
