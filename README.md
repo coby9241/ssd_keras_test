@@ -12,4 +12,4 @@ Most of the work done in ssd_trial_3.ipynb and get_data_from_XML.py. One issue n
 
 To do (if i have time):
 1) retraining after better train/val/test split
-2) computation of Average Precision for all classes and MAP (mean average precision)
+2) computation of MAP (mean average precision) and Average Precision for all classes
